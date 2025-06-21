@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/tickettrack-web-55120-11ed2883/ticketing_frontend_workspace/ticketing_frontend"
+}
